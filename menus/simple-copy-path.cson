@@ -11,6 +11,10 @@ menu: [
         label: "Copy Full Path"
         command: "copy-full-path"
       }
+      {
+        label: "Copy Require Path"
+        command: "copy-require-path"
+      }
     ]
   ]
 ]
@@ -24,6 +28,10 @@ menu: [
       label: "Copy Full Path"
       command: "copy-full-path"
     }
+    {
+      label: "Copy Require Path"
+      command: "copy-require-path"
+    }
   ]
   ".tab.copy-path": [
     {type: 'separator'}
@@ -34,5 +42,9 @@ menu: [
     {
       label: "Copy Full Path"
       command: "copy-full-path"
+    }
+    {
+      label: "Copy Require Path"
+      command: "copy-require-path"
     }
   ]
