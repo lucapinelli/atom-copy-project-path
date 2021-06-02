@@ -1,14 +1,44 @@
 {
-  "name": "simple-copy-path",
-  "main": "./lib/simple-copy-path.js",
-  "version": "1.0.0",
+  "_from": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+  "_id": "simple-copy-path@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-IouIWH5tczrtVS7HYKpiXxt4lz2KQDE/CQd1l0/+i9UTroaw+V/7/d2Da+/GPiqHu6uKkZ57SDUoc7wIUsGOdA==",
+  "_location": "/simple-copy-path",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+  "_shasum": "8ddcf66ffdb58f432014beee7884b79f4c40ad84",
+  "_spec": "https://www.atom.io/api/packages/simple-copy-path/versions/1.0.0/tarball",
+  "_where": "/tmp/apm-install-dir-2021426-5759-ewth1f.c8l6f",
+  "bugs": {
+    "url": "https://github.com/jnwaletzko/atom-copy-project-path/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Adds copy project path and full path to editor and tab menus",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/jnwaletzko/atom-copy-project-path#readme",
   "keywords": [
     "copy"
   ],
-  "repository": "https://github.com/jnwaletzko/atom-copy-project-path",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+  "main": "./lib/simple-copy-path.js",
+  "name": "simple-copy-path",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnwaletzko/atom-copy-project-path.git"
+  },
+  "version": "1.0.0"
 }
